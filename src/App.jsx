@@ -64,7 +64,6 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.state.Todos);
     return (
       <main className="main-page">
         <h1 className="title">Welcome to the Todo app</h1>
